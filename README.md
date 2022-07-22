@@ -1,2 +1,0 @@
-# typorapic
-typora picture
