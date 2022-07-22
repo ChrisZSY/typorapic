@@ -2,9 +2,9 @@
 
 ​         
 
-### PicGo+[GitHub](https://so.csdn.net/so/search?q=GitHub&spm=1001.2101.3001.7020)+Typora搭建图床使用
+### PicGo+[GitHub](https://github.com/)+Typora搭建图床使用
 
-#### 如何使用 Github 作为自己的免费[图床](https://so.csdn.net/so/search?q=图床&spm=1001.2101.3001.7020)
+#### 如何使用 Github 作为自己的免费图床
 
 ##### 前言
 
@@ -29,8 +29,7 @@
 
 #### 2、注册账号
 
-首先注册一个 github 账号（网址：[https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home](https://github.com/join?ref_cta=Sign up&ref_loc=header logged out&ref_page=/&source=header-home)
- 短网址：http://cn.hk.uy/qV8）
+首先注册一个 github 账号（网址：https://github.com/signup?user_email=&source=form-home-signup)
 
 ![img](https://img-blog.csdnimg.cn/img_convert/c1aff2aad8f60c4572fcb4ab3db29f72.png)
 
